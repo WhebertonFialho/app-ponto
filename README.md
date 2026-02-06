@@ -22,10 +22,10 @@ Clone o repositório e instale as dependências:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/WhebertonFialho/app-ponto.git
 
 # Acessar o diretório do projeto
-cd seu-projeto
+cd app-ponto
 
 # Instalar dependências
 yarn install
